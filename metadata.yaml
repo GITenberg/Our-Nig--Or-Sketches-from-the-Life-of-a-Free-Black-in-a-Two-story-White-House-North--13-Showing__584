@@ -1,0 +1,35 @@
+_repo: Our-Nig--Or-Sketches-from-the-Life-of-a-Free-Black-in-a-Two-story-White-House-North--13-Showing__584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Harriet E.
+    aliases:
+    - Wilson, H. E. (Harriet E.)
+    - Wilson, Hattie E.
+    birthdate: 1825
+    deathdate: 1900
+    gutenberg_agent_id: '301'
+    url: http://www.gutenberg.org/2009/agents/301
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_E._Wilson
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Racism -- Fiction'
+- !lcsh 'Free African Americans -- Fiction'
+- !lcsh 'African American women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'African American women household employees -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- GITenberg
+title: "Our Nig; Or, Sketches from the Life of a Free Black, in a Two-story White\
+  \ House, North\r\nShowing That Slavery's Shadows Fall Even There"
+url: http://www.gutenberg.org/ebooks/584

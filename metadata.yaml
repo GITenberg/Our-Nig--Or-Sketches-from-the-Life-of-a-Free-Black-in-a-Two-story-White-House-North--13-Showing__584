@@ -1,5 +1,8 @@
 _repo: Our-Nig--Or-Sketches-from-the-Life-of-a-Free-Black-in-a-Two-story-White-House-North--13-Showing__584
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilson, Harriet E.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/301
     wikipedia: http://en.wikipedia.org/wiki/Harriet_E._Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/584#Our-Nig--Or-Sketches-from-the-Life-of-a-Free-Black-in-a-Two-story-White-House-North--13-Showing_
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '1996-07-01'
 gutenberg_type: Text
